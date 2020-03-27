@@ -1,0 +1,4 @@
+{
+	"config_name" : "develop",
+	"SECRET" : "test_secretKey"
+}
